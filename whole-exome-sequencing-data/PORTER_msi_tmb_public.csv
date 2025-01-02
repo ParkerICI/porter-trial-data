@@ -1,0 +1,23 @@
+manuscript.id,cohort,treatment,composite.endpoint.responder,disease.control.6month,msi,tmb
+10A,A,NKTR-214 + Nivolumab,N,N,MSI-L,0.93
+11A,A,NKTR-214 + Nivolumab,N,N,MSI-Stable,0.61
+14A,A,NKTR-214 + Nivolumab,N,Y,MSI-Stable,0.79
+3A,A,NKTR-214 + Nivolumab,N,N,MSI-Stable,0.75
+5A,A,NKTR-214 + Nivolumab,N,Y,MSI-Stable,0.26
+6A,A,NKTR-214 + Nivolumab,N,N,MSI-Stable,0.94
+7A,A,NKTR-214 + Nivolumab,N,N,MSI-Stable,1.36
+8A,A,NKTR-214 + Nivolumab,N,N,MSI-Stable,1.35
+9A,A,NKTR-214 + Nivolumab,Y,N,MSI-Stable,1.72
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,MSI-L,1.11
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,MSI-Stable,0.8
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,MSI-Stable,1.79
+4B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,MSI-Stable,0.69
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,MSI-Stable,0.76
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,MSI-Stable,0.82
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,MSI-L,0.66
+11C,C,CDX-301 + INO-5151 + Nivolumab,N,N,MSI-Stable,0.33
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,MSI-Stable,2.53
+2C,C,CDX-301 + INO-5151 + Nivolumab,N,N,MSI-Stable,1.35
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,MSI-L,0.65
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,MSI-Stable,0.72
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,MSI-Stable,1
