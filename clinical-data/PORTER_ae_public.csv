@@ -1,0 +1,510 @@
+manuscript.id,cohort,treatment,composite.endpoint.responder,disease.control.6month,ae.coded.perferred.term,ae.coded.soc,study.day.start,study.day.end,ae.severity,ae.serious,ae.related.treatments,ae.outcome,coding.dictionary
+10A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,3,4,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,3,35,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Hypertension,Vascular disorders,21,29,Grade 3,N,,RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,23,24,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Hypertension,Vascular disorders,29,29,Grade 2,N,,RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Hypertension,Vascular disorders,29,43,Grade 3,N,,RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Hypertension,Vascular disorders,43,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Acute kidney injury,Renal and urinary disorders,67,69,Grade 3,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Dehydration,Metabolism and nutrition disorders,67,69,Grade 3,Y,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Eosinophilia,Blood and lymphatic system disorders,71,211,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Hypervolaemia,Metabolism and nutrition disorders,74,77,Grade 2,Y,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Oedema peripheral,General disorders and administration site conditions,74,NA,Grade 1,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,96,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Rash pustular,Infections and infestations,106,149,Grade 2,N,,RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Pruritus,Skin and subcutaneous tissue disorders,143,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+10A,A,NKTR-214 + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,151,156,Grade 2,N,,RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,7,40,Grade 2,N,,RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypoalbuminaemia,Metabolism and nutrition disorders,7,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Vitamin B1 deficiency,Metabolism and nutrition disorders,7,15,Grade 3,Y,,RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypocalcaemia,Metabolism and nutrition disorders,29,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Platelet count decreased,Investigations,29,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,40,57,Grade 3,N,,RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,57,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",57,57,Grade 2,N,,RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",57,126,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,57,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypotension,Vascular disorders,57,57,Grade 2,N,,RECOVERED,MedDRA 25.0
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypotension,Vascular disorders,57,87,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,29,78,Grade 2,N,,RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Urinary tract stoma complication,"Injury, poisoning and procedural complications",34,37,Grade 3,Y,,RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Urinary tract infection,Infections and infestations,135,137,Grade 3,Y,,RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,167,168,Grade 3,N,,RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Urinary tract infection,Infections and infestations,167,169,Grade 3,Y,,RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Constipation,Gastrointestinal disorders,168,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypercalcaemia,Metabolism and nutrition disorders,171,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Urinary tract infection,Infections and infestations,174,176,Grade 3,Y,,RECOVERED,MedDRA 25.0
+10C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Urinary tract stoma complication,"Injury, poisoning and procedural complications",183,186,Grade 3,Y,,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,-5,4,Grade 1,N,,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Hot flush,Vascular disorders,-3,4,Grade 1,N,,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,1,2,Grade 1,N,,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Platelet count decreased,Investigations,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,2,3,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,3,8,Grade 3,N,,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Alanine aminotransferase increased,Investigations,8,22,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,8,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Hypoalbuminaemia,Metabolism and nutrition disorders,8,22,Grade 1,N,,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Hyperglycaemia,Metabolism and nutrition disorders,22,62,Grade 1,N,,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Hypocalcaemia,Metabolism and nutrition disorders,22,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Infusion related reaction,"Injury, poisoning and procedural complications",22,23,Grade 2,Y,Nivolumab,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Troponin I increased,Investigations,22,27,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Rash,Skin and subcutaneous tissue disorders,25,26,Grade 3,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Gastrooesophageal reflux disease,Gastrointestinal disorders,38,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Alanine aminotransferase increased,Investigations,62,NA,Grade 1,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,62,NA,Grade 1,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+11A,A,NKTR-214 + Nivolumab,N,N,Oral herpes,Infections and infestations,374,381,Grade 1,N,,RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Fatigue,General disorders and administration site conditions,2,NA,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,White blood cell count decreased,Investigations,30,NA,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Dermatitis,Skin and subcutaneous tissue disorders,37,NA,Grade 1,N,SBRT,NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Pruritus,Skin and subcutaneous tissue disorders,37,NA,Grade 1,N,SBRT,NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Alanine aminotransferase increased,Investigations,86,NA,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Aspartate aminotransferase increased,Investigations,86,NA,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Bone pain,Musculoskeletal and connective tissue disorders,100,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Alopecia,Skin and subcutaneous tissue disorders,179,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Dysuria,Renal and urinary disorders,179,235,Grade 1,N,,RECOVERED,MedDRA 25.0
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,179,235,Grade 1,N,,RECOVERED,MedDRA 25.0
+11C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Injection site discomfort,General disorders and administration site conditions,3,4,Grade 1,N,"CDX301, Electroporation, INO5151",RECOVERED,MedDRA 25.0
+11C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Musculoskeletal pain,Musculoskeletal and connective tissue disorders,47,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,-5,3,Grade 2,N,,RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Pruritus,Skin and subcutaneous tissue disorders,5,7,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Rash,Skin and subcutaneous tissue disorders,5,7,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,12,43,Grade 2,N,,RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Pruritus,Skin and subcutaneous tissue disorders,24,26,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,44,NA,Grade 1,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Nausea,Gastrointestinal disorders,44,NA,Grade 1,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Pruritus,Skin and subcutaneous tissue disorders,44,NA,Grade 2,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+12A,A,NKTR-214 + Nivolumab,N,N,Rash,Skin and subcutaneous tissue disorders,44,68,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,1,8,Grade 1,N,,RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Blood creatinine increased,Investigations,1,3,Grade 1,N,,RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,60,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Haemoglobin decreased,Investigations,87,87,Grade 1,N,,RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,115,143,Grade 1,N,,RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,115,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,143,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,143,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypoaesthesia,Nervous system disorders,143,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypothyroidism,Endocrine disorders,143,NA,Grade 2,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+12C,C,CDX-301 + INO-5151 + Nivolumab,Y,Y,Fatigue,General disorders and administration site conditions,29,54,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+12C,C,CDX-301 + INO-5151 + Nivolumab,Y,Y,Cellulitis,Infections and infestations,37,38,Grade 3,Y,,RECOVERED,MedDRA 25.0
+12C,C,CDX-301 + INO-5151 + Nivolumab,Y,Y,Arthritis,Musculoskeletal and connective tissue disorders,78,87,Grade 2,N,,RECOVERED,MedDRA 25.0
+13A,A,NKTR-214 + Nivolumab,N,N,Acute respiratory distress syndrome,"Respiratory, thoracic and mediastinal disorders",1,1,Grade 5,Y,NKTR214,FATAL,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Injection site irritation,General disorders and administration site conditions,11,15,Grade 1,N,poly-ICLC,RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Constipation,Gastrointestinal disorders,12,13,Grade 1,N,,RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Hypertension,Vascular disorders,15,226,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Hypermetropia,Eye disorders,113,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Vision blurred,Eye disorders,134,352,Grade 2,N,"Nivolumab, CDX301, SBRT, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Hypertension,Vascular disorders,338,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Vision blurred,Eye disorders,422,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Cough,"Respiratory, thoracic and mediastinal disorders",437,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Cognitive disorder,Nervous system disorders,450,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Insomnia,Psychiatric disorders,450,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Activated partial thromboplastin time prolonged,Investigations,-12,1,Grade 1,N,,RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,8,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,8,162,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Blood lactate dehydrogenase increased,Investigations,8,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,8,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Visual impairment,Eye disorders,8,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,15,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Headache,Nervous system disorders,15,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypoalbuminaemia,Metabolism and nutrition disorders,15,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypotension,Vascular disorders,15,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Activated partial thromboplastin time prolonged,Investigations,22,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyponatraemia,Metabolism and nutrition disorders,22,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Alanine aminotransferase increased,Investigations,40,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypocalcaemia,Metabolism and nutrition disorders,40,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+13C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Proteinuria,Renal and urinary disorders,40,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Nasal congestion,"Respiratory, thoracic and mediastinal disorders",-10,22,Grade 1,N,,RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Fatigue,General disorders and administration site conditions,1,NA,Grade 1,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Sinusitis,Infections and infestations,12,22,Grade 2,N,,RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Atrial fibrillation,Cardiac disorders,25,44,Grade 2,Y,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Hyperthyroidism,Endocrine disorders,25,75,Grade 2,Y,"Nivolumab, NKTR214",RECOVERED OR RESOLVED WITH SEQUELAE,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Rash maculo-papular,Skin and subcutaneous tissue disorders,26,27,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Rash maculo-papular,Skin and subcutaneous tissue disorders,44,100,Grade 1,N,,RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Hypothyroidism,Endocrine disorders,51,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Hyponatraemia,Metabolism and nutrition disorders,64,91,Grade 3,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Sepsis,Infections and infestations,89,93,Grade 4,Y,,RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Hyponatraemia,Metabolism and nutrition disorders,91,92,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Hyponatraemia,Metabolism and nutrition disorders,92,95,Grade 3,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Hyponatraemia,Metabolism and nutrition disorders,95,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+14A,A,NKTR-214 + Nivolumab,N,Y,Endocarditis,Infections and infestations,108,142,Grade 4,Y,,RECOVERED,MedDRA 25.0
+14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Groin pain,Musculoskeletal and connective tissue disorders,-17,8,Grade 2,N,,RECOVERED,MedDRA 25.0
+14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,International normalised ratio increased,Investigations,8,16,Grade 2,N,,RECOVERED,MedDRA 25.0
+14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Groin pain,Musculoskeletal and connective tissue disorders,12,23,Grade 1,N,,RECOVERED,MedDRA 25.0
+14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,23,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Non-cardiac chest pain,General disorders and administration site conditions,44,149,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,57,57,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Asthenia,General disorders and administration site conditions,43,NA,Grade 2,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",43,71,Grade 1,N,,RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Musculoskeletal stiffness,Musculoskeletal and connective tissue disorders,43,71,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Neuropathy peripheral,Nervous system disorders,43,NA,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Peripheral motor neuropathy,Nervous system disorders,45,NA,Grade 3,Y,Nivolumab,NOT RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Constipation,Gastrointestinal disorders,47,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,52,71,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Insomnia,Psychiatric disorders,52,71,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+14C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Gastrooesophageal reflux disease,Gastrointestinal disorders,NA,NA,Grade 1,N,,RECOVERING OR RESOLVING,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Injection site reaction,General disorders and administration site conditions,9,10,Grade 1,N,poly-ICLC,RECOVERED,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Gastrooesophageal reflux disease,Gastrointestinal disorders,37,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,66,NA,Grade 2,N,"Nivolumab, CDX301, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Colitis,Gastrointestinal disorders,66,90,Grade 2,Y,Nivolumab,RECOVERED,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,66,NA,Grade 1,N,"Nivolumab, CDX301, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,COVID-19,Infections and infestations,69,106,Grade 3,Y,,RECOVERED OR RESOLVED WITH SEQUELAE,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthritis,Musculoskeletal and connective tissue disorders,75,90,Grade 2,Y,Nivolumab,RECOVERED,MedDRA 25.0
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,COVID-19,Infections and infestations,107,107,Grade 5,Y,,FATAL,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Night sweats,Skin and subcutaneous tissue disorders,1,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,1,6,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,2,3,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,3,22,Grade 3,N,NKTR214,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,5,8,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,8,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Hypocalcaemia,Metabolism and nutrition disorders,8,43,Grade 2,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,White blood cell count decreased,Investigations,8,29,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,18,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,22,29,Grade 3,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,22,29,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,22,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,29,51,Grade 2,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,29,43,Grade 1,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Back pain,Musculoskeletal and connective tissue disorders,38,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,43,99,Grade 2,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Hypoalbuminaemia,Metabolism and nutrition disorders,43,51,Grade 2,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Hypocalcaemia,Metabolism and nutrition disorders,43,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,43,51,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,51,64,Grade 3,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Hypoalbuminaemia,Metabolism and nutrition disorders,51,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,51,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Platelet count decreased,Investigations,51,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Proteinuria,Renal and urinary disorders,51,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,White blood cell count decreased,Investigations,51,NA,Grade 2,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,52,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,64,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,99,129,Grade 3,N,,RECOVERED,MedDRA 25.0
+1A,A,NKTR-214 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,129,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Chills,General disorders and administration site conditions,2,3,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Constipation,Gastrointestinal disorders,3,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Nausea,Gastrointestinal disorders,3,28,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,24,28,Grade 1,N,,RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Vomiting,Gastrointestinal disorders,24,28,Grade 1,N,,RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,31,NA,Grade 1,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Nausea,Gastrointestinal disorders,31,NA,Grade 2,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Pain,General disorders and administration site conditions,31,NA,Grade 2,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Vomiting,Gastrointestinal disorders,31,38,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+1C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,8,22,Grade 3,N,,RECOVERED,MedDRA 25.0
+1C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Myalgia,Musculoskeletal and connective tissue disorders,8,8,Grade 2,N,INO5151,RECOVERED,MedDRA 25.0
+1C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,36,37,Grade 3,N,,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Chills,General disorders and administration site conditions,3,3,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Hypotension,Vascular disorders,3,3,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,3,3,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Pruritus,Skin and subcutaneous tissue disorders,4,23,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,4,4,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Rash papular,Skin and subcutaneous tissue disorders,4,8,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Rash papular,Skin and subcutaneous tissue disorders,8,9,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Rash vesicular,Skin and subcutaneous tissue disorders,9,11,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,15,115,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Hyperthyroidism,Endocrine disorders,23,43,Grade 1,N,"Nivolumab, NKTR214",RECOVERED OR RESOLVED WITH SEQUELAE,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Restless legs syndrome,Nervous system disorders,23,43,Grade 1,N,,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Joint swelling,Musculoskeletal and connective tissue disorders,24,24,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,24,26,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Tumour pain,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",25,37,Grade 1,N,,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Nausea,Gastrointestinal disorders,26,26,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Angioedema,Skin and subcutaneous tissue disorders,30,37,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Hypothyroidism,Endocrine disorders,43,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Rash,Skin and subcutaneous tissue disorders,44,46,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2A,A,NKTR-214 + Nivolumab,N,N,Generalised oedema,General disorders and administration site conditions,46,67,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,5,6,Grade 3,N,,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Back pain,Musculoskeletal and connective tissue disorders,5,6,Grade 3,N,,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Urinary tract infection,Infections and infestations,5,12,Grade 2,N,,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,6,32,Grade 2,N,,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Back pain,Musculoskeletal and connective tissue disorders,6,32,Grade 2,N,,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Nausea,Gastrointestinal disorders,25,32,Grade 1,N,,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Vomiting,Gastrointestinal disorders,25,32,Grade 1,N,,RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,32,NA,Grade 3,N,,NOT RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Back pain,Musculoskeletal and connective tissue disorders,32,NA,Grade 3,N,,NOT RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypoalbuminaemia,Metabolism and nutrition disorders,32,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Pain in extremity,Musculoskeletal and connective tissue disorders,32,NA,Grade 3,N,,NOT RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Weight decreased,Investigations,32,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,52,NA,Grade 3,N,,NOT RECOVERED,MedDRA 25.0
+2C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Urinary tract infection,Infections and infestations,-7,5,Grade 2,N,,RECOVERED,MedDRA 25.0
+2C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Urinary tract infection,Infections and infestations,37,47,Grade 2,N,,RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,2,NA,Grade 1,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Vision blurred,Eye disorders,3,3,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Autoimmune arthritis,Musculoskeletal and connective tissue disorders,4,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Psoriasis,Skin and subcutaneous tissue disorders,4,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,10,22,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,22,57,Grade 3,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,57,NA,Grade 3,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Weight decreased,Investigations,57,98,Grade 1,N,,RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Neuropathy peripheral,Nervous system disorders,58,NA,Grade 1,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Weight decreased,Investigations,99,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Constipation,Gastrointestinal disorders,120,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Blood creatinine increased,Investigations,128,134,Grade 1,N,,RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Urinary tract infection,Infections and infestations,140,150,Grade 2,N,,RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Blood creatinine increased,Investigations,152,157,Grade 1,N,,RECOVERED,MedDRA 25.0
+3A,A,NKTR-214 + Nivolumab,N,N,Endocarditis,Infections and infestations,152,194,Grade 3,Y,,RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Chills,General disorders and administration site conditions,2,2,Grade 1,N,"CDX301, poly-ICLC",RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Injection site pain,General disorders and administration site conditions,2,3,Grade 2,N,poly-ICLC,RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Nausea,Gastrointestinal disorders,2,2,Grade 1,N,"CDX301, poly-ICLC",RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Night sweats,Skin and subcutaneous tissue disorders,3,3,Grade 2,N,"CDX301, poly-ICLC",RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Injection site pain,General disorders and administration site conditions,6,8,Grade 1,N,poly-ICLC,RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Body temperature increased,Investigations,20,21,Grade 1,N,"CDX301, SBRT, poly-ICLC",RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Pneumonitis,"Respiratory, thoracic and mediastinal disorders",79,NA,Grade 3,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",81,105,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Oedema peripheral,General disorders and administration site conditions,82,105,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Pollakiuria,Renal and urinary disorders,-53,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Fatigue,General disorders and administration site conditions,1,159,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Pruritus,Skin and subcutaneous tissue disorders,46,56,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Rash,Skin and subcutaneous tissue disorders,56,74,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Onychomycosis,Infections and infestations,57,234,Grade 1,N,,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Blepharitis,Eye disorders,83,116,Grade 1,N,,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Photopsia,Eye disorders,83,83,Grade 1,N,,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Rash,Skin and subcutaneous tissue disorders,96,116,Grade 1,N,"Nivolumab, INO5151",RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Chest pain,General disorders and administration site conditions,159,160,Grade 1,N,"Nivolumab, INO5151",RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Fatigue,General disorders and administration site conditions,159,179,Grade 2,N,"Nivolumab, INO5151",RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Dizziness,Nervous system disorders,200,240,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Nausea,Gastrointestinal disorders,200,234,Grade 1,N,,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Pruritus,Skin and subcutaneous tissue disorders,213,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Arthralgia,Musculoskeletal and connective tissue disorders,214,NA,Grade 1,N,,RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Parotid gland enlargement,Gastrointestinal disorders,214,226,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+3C,C,CDX-301 + INO-5151 + Nivolumab,N,Y,Sinusitis,Infections and infestations,274,316,Grade 2,N,,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Chills,General disorders and administration site conditions,2,2,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Dysuria,Renal and urinary disorders,2,22,Grade 1,N,,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,2,26,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Myalgia,Musculoskeletal and connective tissue disorders,2,4,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Chills,General disorders and administration site conditions,3,3,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Pruritus,Skin and subcutaneous tissue disorders,3,22,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Rash erythematous,Skin and subcutaneous tissue disorders,3,9,Grade 3,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Rash erythematous,Skin and subcutaneous tissue disorders,9,22,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Dysgeusia,Nervous system disorders,22,27,Grade 1,N,,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Pruritus,Skin and subcutaneous tissue disorders,22,23,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Chills,General disorders and administration site conditions,23,23,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Headache,Nervous system disorders,23,23,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Chills,General disorders and administration site conditions,24,25,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Dizziness,Nervous system disorders,24,26,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,24,26,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,24,24,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+4A,A,NKTR-214 + Nivolumab,N,N,Blood creatinine increased,Investigations,64,72,Grade 2,N,,RECOVERED,MedDRA 25.0
+4B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Infusion related reaction,"Injury, poisoning and procedural complications",29,29,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+4B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Pain in extremity,Musculoskeletal and connective tissue disorders,99,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",2,115,Grade 1,N,,RECOVERING OR RESOLVING,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Lymphocyte count decreased,Investigations,2,3,Grade 3,N,NKTR214,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hot flush,Vascular disorders,3,197,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Lymphocyte count decreased,Investigations,3,8,Grade 4,N,NKTR214,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Cough,"Respiratory, thoracic and mediastinal disorders",4,183,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Pyrexia,General disorders and administration site conditions,4,6,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Alanine aminotransferase increased,Investigations,8,43,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Aspartate aminotransferase increased,Investigations,8,30,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hypothyroidism,Endocrine disorders,43,51,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Night sweats,Skin and subcutaneous tissue disorders,51,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Oropharyngeal discomfort,"Respiratory, thoracic and mediastinal disorders",51,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hyponatraemia,Metabolism and nutrition disorders,52,64,Grade 3,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Pain in extremity,Musculoskeletal and connective tissue disorders,65,274,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Influenza like illness,General disorders and administration site conditions,68,82,Grade 2,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Flushing,Vascular disorders,71,92,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hyperglycaemia,Metabolism and nutrition disorders,82,155,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hyponatraemia,Metabolism and nutrition disorders,92,99,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Insomnia,Psychiatric disorders,92,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Pyrexia,General disorders and administration site conditions,99,115,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",115,NA,Grade 2,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Laryngeal oedema,"Respiratory, thoracic and mediastinal disorders",115,NA,Grade 2,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Haematuria,Renal and urinary disorders,122,123,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hypothyroidism,Endocrine disorders,155,176,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hyperglycaemia,Metabolism and nutrition disorders,162,176,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hypoalbuminaemia,Metabolism and nutrition disorders,183,197,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hypothyroidism,Endocrine disorders,183,NA,Grade 2,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Blood creatinine increased,Investigations,226,241,Grade 1,N,,RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hyperglycaemia,Metabolism and nutrition disorders,249,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Hypoalbuminaemia,Metabolism and nutrition disorders,249,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5A,A,NKTR-214 + Nivolumab,N,Y,Paraesthesia,Nervous system disorders,NA,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,58,86,Grade 3,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,86,114,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,114,142,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,142,170,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,170,200,Grade 3,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Night sweats,Skin and subcutaneous tissue disorders,193,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,200,207,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Blood creatinine increased,Investigations,200,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Constipation,Gastrointestinal disorders,200,211,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Asthenia,General disorders and administration site conditions,212,216,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",212,216,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Helicobacter gastritis,Infections and infestations,214,277,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,215,216,Grade 3,Y,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,216,242,Grade 2,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Rash,Skin and subcutaneous tissue disorders,221,277,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,242,249,Grade 3,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Anaemia,Blood and lymphatic system disorders,249,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Abdominal pain,Gastrointestinal disorders,333,359,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Decreased appetite,Metabolism and nutrition disorders,333,359,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Diarrhoea,Gastrointestinal disorders,333,340,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",333,359,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Weight decreased,Investigations,333,NA,Grade 1,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Vomiting,Gastrointestinal disorders,334,359,Grade 2,N,Nivolumab,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Diarrhoea,Gastrointestinal disorders,340,346,Grade 2,Y,Nivolumab,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Immune-mediated enterocolitis,Gastrointestinal disorders,345,356,Grade 3,Y,Nivolumab,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Aspartate aminotransferase increased,Investigations,359,361,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Cough,"Respiratory, thoracic and mediastinal disorders",359,372,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Hypoalbuminaemia,Metabolism and nutrition disorders,359,544,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Rhinitis,Infections and infestations,359,372,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Pain in extremity,Musculoskeletal and connective tissue disorders,370,370,Grade 1,N,,RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Diarrhoea,Gastrointestinal disorders,422,NA,Grade 3,N,"Nivolumab, CDX301, SBRT, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,Y,Immune-mediated enterocolitis,Gastrointestinal disorders,422,466,Grade 3,Y,Nivolumab,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,15,NA,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Blood lactate dehydrogenase increased,Investigations,15,NA,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyponatraemia,Metabolism and nutrition disorders,15,50,Grade 1,N,,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypocalcaemia,Metabolism and nutrition disorders,22,50,Grade 1,N,,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,37,NA,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypoalbuminaemia,Metabolism and nutrition disorders,37,NA,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,43,NA,Grade 2,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Back pain,Musculoskeletal and connective tissue disorders,46,NA,Grade 1,N,,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,46,50,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Alanine aminotransferase increased,Investigations,50,NA,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyperkalaemia,Metabolism and nutrition disorders,50,54,Grade 2,N,,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyponatraemia,Metabolism and nutrition disorders,50,64,Grade 3,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyperkalaemia,Metabolism and nutrition disorders,54,64,Grade 1,N,,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyperkalaemia,Metabolism and nutrition disorders,54,NA,Grade 2,N,,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyponatraemia,Metabolism and nutrition disorders,64,NA,Grade 2,N,,RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Respiratory failure,"Respiratory, thoracic and mediastinal disorders",93,106,Grade 4,Y,,NOT RECOVERED,MedDRA 25.0
+5C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Respiratory failure,"Respiratory, thoracic and mediastinal disorders",471,106,Grade 5,Y,,FATAL,MedDRA 25.0
+6A,A,NKTR-214 + Nivolumab,N,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,4,23,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+6A,A,NKTR-214 + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,11,12,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+6A,A,NKTR-214 + Nivolumab,N,N,Nausea,Gastrointestinal disorders,11,12,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+6A,A,NKTR-214 + Nivolumab,N,N,Vomiting,Gastrointestinal disorders,11,12,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+6A,A,NKTR-214 + Nivolumab,N,N,Dehydration,Metabolism and nutrition disorders,12,12,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+6A,A,NKTR-214 + Nivolumab,N,N,Hypothyroidism,Endocrine disorders,30,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Nausea,Gastrointestinal disorders,1,47,Grade 1,N,poly-ICLC,NOT RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Decreased appetite,Metabolism and nutrition disorders,9,86,Grade 1,N,poly-ICLC,NOT RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Injection site reaction,General disorders and administration site conditions,9,11,Grade 1,N,poly-ICLC,RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Vertigo,Ear and labyrinth disorders,40,47,Grade 1,N,,RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Lethargy,Nervous system disorders,44,58,Grade 1,N,Nivolumab,RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Diarrhoea,Gastrointestinal disorders,161,164,Grade 1,N,,RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Influenza like illness,General disorders and administration site conditions,161,170,Grade 2,N,,RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Constipation,Gastrointestinal disorders,171,NA,Grade 1,N,,RECOVERING OR RESOLVING,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Acute myocardial infarction,Cardiac disorders,301,303,Grade 3,Y,,RECOVERED,MedDRA 25.0
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Atrial flutter,Cardiac disorders,313,314,Grade 2,Y,,RECOVERED,MedDRA 25.0
+6C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Skin abrasion,"Injury, poisoning and procedural complications",4,9,Grade 1,N,CDX301,RECOVERED,MedDRA 25.0
+6C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,9,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+6C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Groin pain,Musculoskeletal and connective tissue disorders,32,34,Grade 1,N,,RECOVERED,MedDRA 25.0
+6C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Dry skin,Skin and subcutaneous tissue disorders,66,135,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+6C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Stomatitis,Gastrointestinal disorders,66,135,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+6C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Palmar-plantar erythrodysaesthesia syndrome,Skin and subcutaneous tissue disorders,95,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+6C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Vision blurred,Eye disorders,144,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,1,115,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Haemoglobinuria,Renal and urinary disorders,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Proteinuria,Renal and urinary disorders,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,White blood cell count decreased,Investigations,1,23,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,2,3,Grade 3,N,NKTR214,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Pelvic pain,Reproductive system and breast disorders,2,3,Grade 1,N,,RECOVERED OR RESOLVED WITH SEQUELAE,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Dizziness,Nervous system disorders,3,9,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,3,9,Grade 2,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Hyperglycaemia,Metabolism and nutrition disorders,3,9,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,3,9,Grade 4,N,NKTR214,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Pain in extremity,Musculoskeletal and connective tissue disorders,3,9,Grade 2,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Pelvic pain,Reproductive system and breast disorders,3,9,Grade 2,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Vomiting,Gastrointestinal disorders,3,9,Grade 2,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Cytokine release syndrome,Immune system disorders,5,7,Grade 2,Y,NKTR214,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",9,23,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,9,72,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Pain in extremity,Musculoskeletal and connective tissue disorders,9,28,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Pelvic pain,Reproductive system and breast disorders,9,28,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",23,25,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Blood creatinine increased,Investigations,25,114,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Hypotension,Vascular disorders,25,26,Grade 3,Y,NKTR214,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Flushing,Vascular disorders,27,71,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Neutrophil count decreased,Investigations,30,42,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Blood alkaline phosphatase increased,Investigations,72,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,72,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,72,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Pain in extremity,Musculoskeletal and connective tissue disorders,72,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Blood creatinine increased,Investigations,114,115,Grade 2,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Blood creatinine increased,Investigations,115,119,Grade 3,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Hypersensitivity,Immune system disorders,115,129,Grade 1,N,,RECOVERED,MedDRA 25.0
+7A,A,NKTR-214 + Nivolumab,N,N,Blood creatinine increased,Investigations,119,140,Grade 2,N,,RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Blood cholesterol increased,Investigations,-147,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Dysuria,Renal and urinary disorders,-147,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Hypertension,Vascular disorders,-119,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Myalgia,Musculoskeletal and connective tissue disorders,1,1,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Myalgia,Musculoskeletal and connective tissue disorders,3,3,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,3,3,Grade 1,N,"Nivolumab, CDX301, SBRT, poly-ICLC",RECOVERED,MedDRA 25.0
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Bone pain,Musculoskeletal and connective tissue disorders,17,NA,Grade 2,N,"Nivolumab, CDX301, poly-ICLC",NOT RECOVERED,MedDRA 25.0
+7C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Dizziness,Nervous system disorders,12,12,Grade 1,N,"Nivolumab, CDX301, Electroporation, INO5151",RECOVERED,MedDRA 25.0
+7C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypertension,Vascular disorders,25,26,Grade 2,N,,RECOVERED,MedDRA 25.0
+7C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,93,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Nausea,Gastrointestinal disorders,93,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+7C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Pain in extremity,Musculoskeletal and connective tissue disorders,173,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Hyperglycaemia,Metabolism and nutrition disorders,1,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,1,2,Grade 2,N,NKTR214,RECOVERED OR RESOLVED WITH SEQUELAE,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,2,136,Grade 1,N,,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,2,3,Grade 3,N,NKTR214,RECOVERED OR RESOLVED WITH SEQUELAE,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Neck pain,Musculoskeletal and connective tissue disorders,2,8,Grade 1,N,,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Chills,General disorders and administration site conditions,3,8,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,3,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,3,6,Grade 1,N,,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,3,4,Grade 4,N,NKTR214,RECOVERED OR RESOLVED WITH SEQUELAE,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Pyrexia,General disorders and administration site conditions,3,4,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,4,8,Grade 3,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Alanine aminotransferase increased,Investigations,8,30,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,8,30,Grade 1,N,NKTR214,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,22,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Hot flush,Vascular disorders,22,136,Grade 1,N,,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,22,30,Grade 3,N,NKTR214,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,24,25,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Alanine aminotransferase increased,Investigations,30,136,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,30,136,Grade 2,N,NKTR214,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Musculoskeletal chest pain,Musculoskeletal and connective tissue disorders,40,136,Grade 1,N,,RECOVERED,MedDRA 25.0
+8A,A,NKTR-214 + Nivolumab,N,N,Lymphocyte count decreased,Investigations,50,NA,Grade 1,N,NKTR214,NOT RECOVERED,MedDRA 25.0
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Dermatitis atopic,Skin and subcutaneous tissue disorders,44,199,Grade 2,N,,RECOVERED,MedDRA 25.0
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Hypothyroidism,Endocrine disorders,57,NA,Grade 1,N,Nivolumab,NOT RECOVERED,MedDRA 25.0
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Anaemia,Blood and lymphatic system disorders,113,142,Grade 2,N,,RECOVERED,MedDRA 25.0
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,White blood cell count decreased,Investigations,113,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Pain in extremity,Musculoskeletal and connective tissue disorders,117,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Anaemia,Blood and lymphatic system disorders,142,199,Grade 1,N,,RECOVERED,MedDRA 25.0
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Y,Y,Anaemia,Blood and lymphatic system disorders,199,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Cognitive disorder,Nervous system disorders,1,1,Grade 1,N,,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Cognitive disorder,Nervous system disorders,2,2,Grade 1,N,,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Dizziness,Nervous system disorders,8,8,Grade 1,N,,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Faeces soft,Gastrointestinal disorders,8,8,Grade 1,N,,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Somnolence,Nervous system disorders,8,8,Grade 1,N,,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Tenderness,General disorders and administration site conditions,8,10,Grade 1,N,Electroporation,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Cognitive disorder,Nervous system disorders,30,198,Grade 1,N,"Nivolumab, INO5151",NOT RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Fatigue,General disorders and administration site conditions,30,114,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,30,86,Grade 1,N,"Nivolumab, CDX301, INO5151",RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Tinnitus,Ear and labyrinth disorders,58,114,Grade 1,N,,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Peripheral sensory neuropathy,Nervous system disorders,114,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Malignant melanoma in situ,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",139,151,Grade 2,N,,RECOVERED,MedDRA 25.0
+8C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Arthralgia,Musculoskeletal and connective tissue disorders,170,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Rash maculo-papular,Skin and subcutaneous tissue disorders,5,8,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Hypersensitivity,Immune system disorders,8,8,Grade 3,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Chills,General disorders and administration site conditions,20,20,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Dry skin,Skin and subcutaneous tissue disorders,20,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Flushing,Vascular disorders,20,20,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Alanine aminotransferase increased,Investigations,25,27,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Aspartate aminotransferase increased,Investigations,25,29,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Eyelid function disorder,Eye disorders,25,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Hyperthyroidism,Endocrine disorders,25,29,Grade 3,Y,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Alanine aminotransferase increased,Investigations,27,28,Grade 2,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Alanine aminotransferase increased,Investigations,29,77,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Aspartate aminotransferase increased,Investigations,29,77,Grade 1,N,"Nivolumab, NKTR214",RECOVERED,MedDRA 25.0
+9A,A,NKTR-214 + Nivolumab,Y,N,Hyperthyroidism,Endocrine disorders,29,NA,Grade 2,N,"Nivolumab, NKTR214",NOT RECOVERED,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Headache,Nervous system disorders,-166,NA,Grade 1,N,,RECOVERING OR RESOLVING,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,-11,31,Grade 2,N,,RECOVERED,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Diarrhoea,Gastrointestinal disorders,-1,1,Grade 1,N,,RECOVERED,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,White blood cell count increased,Investigations,15,19,Grade 1,N,poly-ICLC,RECOVERED,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,31,47,Grade 1,N,,RECOVERED,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,47,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Alanine aminotransferase increased,Investigations,59,85,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,N,N,Aspartate aminotransferase increased,Investigations,59,85,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Coronavirus infection,Infections and infestations,24,38,Grade 1,N,,RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,78,102,Grade 1,N,,RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Musculoskeletal pain,Musculoskeletal and connective tissue disorders,97,141,Grade 1,N,,RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Decreased appetite,Metabolism and nutrition disorders,102,NA,Grade 2,N,,NOT RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyponatraemia,Metabolism and nutrition disorders,102,106,Grade 1,N,,RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyponatraemia,Metabolism and nutrition disorders,106,109,Grade 3,Y,,RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Weight decreased,Investigations,108,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Constipation,Gastrointestinal disorders,109,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hyponatraemia,Metabolism and nutrition disorders,109,NA,Grade 1,N,,NOT RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Non-cardiac chest pain,General disorders and administration site conditions,141,143,Grade 3,N,,RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Hypotension,Vascular disorders,180,180,Grade 1,N,,RECOVERED,MedDRA 25.0
+9C,C,CDX-301 + INO-5151 + Nivolumab,N,N,Anaemia,Blood and lymphatic system disorders,198,316,Grade 3,N,,RECOVERED,MedDRA 25.0
