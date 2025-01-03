@@ -105,6 +105,18 @@ Galsky MD, Autio KA, Cabanski CR, Wentzel K, Graff JN, Friedlander TW, Howes TR,
 * disease.control.6month = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
 
 
+#### RNAseq, Baseline Samples: AMADEUS_primarycohort_rnaseq_baseline.csv
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* cohort = Treatment Cohort (A, B, C)
+* treatment = Treatment Regimen
+* timepoint.id = Timepoint of Biopsy Collection
+* gene.name = Gene Name
+* raw.count = Raw Counts
+* TPM.transcript.per.million = Transcripts per Million (TPM) Value
+* composite.endpoint.responder = "Y" indicates a patient met at least one of the following criteria: CTC.responder = "Y", PSA.responder = "Y", or best.overall.response = "Partial Response"
+* disease.control.6month = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+
+
 #### Whole Exome Sequencing - MSI and Tumor Mutational Burden: PORTER_msi_tmb_public.csv
 * manuscript.id = Deidentified Subject ID reported in the manuscript
 * cohort = Treatment Cohort (A, B, C)
