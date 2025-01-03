@@ -82,6 +82,18 @@ Galsky MD, Autio KA, Cabanski CR, Wentzel K, Graff JN, Friedlander TW, Howes TR,
 
 
 ### translational-data
+#### Mass Cytometry (CyTOF): PORTER_cytof_public.csv
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* cohort = Treatment Cohort (A, B, C)
+* treatment = Treatment Regimen
+* timepoint.id = Timepoint of Sample Collection
+* cell.population.name = Cell Population
+* percent.of.leukocytes = Abundance Value, measured as the Percentage of Leukocytes
+* percent.of.parent = Abundance Value, measured as the Percentage of the Parent Population
+* composite.endpoint.responder = "Y" indicates a patient met at least one of the following criteria: CTC.responder = "Y", PSA.responder = "Y", or best.overall.response = "Partial Response"
+* disease.control.6month = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+
+
 #### Whole Exome Sequencing - MSI and Tumor Mutational Burden: PORTER_msi_tmb_public.csv
 * manuscript.id = Deidentified Subject ID reported in the manuscript
 * cohort = Treatment Cohort (A, B, C)
@@ -106,6 +118,5 @@ Galsky MD, Autio KA, Cabanski CR, Wentzel K, Graff JN, Friedlander TW, Howes TR,
 * variant.effect = Effect of mutation
 * variant.effect.impact = predicted effect of mutation
 * functional.class = functional class of mutation
-
 
 
