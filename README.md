@@ -1,7 +1,7 @@
 # porter-trial-data
 Summary datasets from the PORTER clinical trial in metastatic castration-resistant prostate cancer (mCRPC), as reported in the following manuscript. 
 
-Galsky MD, Autio KA, Cabanski CR, Wentzel K, Graff JN, Friedlander TW, Howes TR, Shotts KM, Densmore J, Spasic M, Da Silva DM, Chen RO, Lata J, Skolnik J, Keler T, Yellin MJ, LaVallee TM, Fairchild J, Boffo S, O'Donnell-Tormey J, Dugan U, Bhardwaj N, Subudhi SK, Fong L. Clinical and Translational Results from PORTER, a Multi-cohort Phase 1 Platform Trial of Combination Immunotherapy in Metastatic Castration-Resistant Prostate Cancer. In Revision.
+Galsky MD, Autio KA, Cabanski CR, Wentzel K, Graff JN, Friedlander TW, Howes TR, Shotts KM, Densmore J, Spasic M, Da Silva DM, Chen RO, Lata J, Skolnik J, Keler T, Yellin MJ, LaVallee TM, Fairchild J, Boffo S, O'Donnell-Tormey J, Dugan U, Bhardwaj N, Subudhi SK, Fong L. Clinical and Translational Results from PORTER, a Multi-cohort Phase 1 Platform Trial of Combination Immunotherapy in Metastatic Castration-Resistant Prostate Cancer. Clinical Cancer Research. 2025. https://doi.org/10.1158/1078-0432.CCR-24-3693
 
 ## DATA DICTIONARY
 ### clinical-data
