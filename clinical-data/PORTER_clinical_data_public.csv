@@ -1,44 +1,44 @@
-Subject ID,Deidentified ID,Cohort,Treatment,Measurable Disease,Age,Sex,Race,Ethnicity,Treatment Start Date,Treatment Duration (mo),Baseline CTC,CTC Percent Change from BL,CTC Responder,Baseline PSA,PSA Percent Change from BL,PSA Responder,Percent Change in Target Lesions,Best Overall Response,rPFS (mo),rPFS Event Flag,OS (mo),OS Event Flag,Composite Endpoint Responder,Disease Control - PR or SD > 6mo,Clinical Benefit Responder - SITC Poster
-PICI0033-103-0006,4A,A,Bempegaldesleukin + Nivolumab,Non-measurable,63,M,Asian,Not Hispanic or Latino,10/16/19,1.347022587,4,-75,NE,32.7,-7.4,N,NA,PROGRESSIVE DISEASE,2.759753593,1,11.07186858,0,N,N,N
-PICI0033-103-0015,2A,A,Bempegaldesleukin + Nivolumab,Non-measurable,63,M,White,Not Hispanic or Latino,10/21/19,1.412731006,5,NA,N,0.51,-13.7,N,NA,PROGRESSIVE DISEASE,2.102669405,1,9.034907598,1,N,N,N
-PICI0033-108-0001,12A,A,Bempegaldesleukin + Nivolumab,Non-measurable,62,M,White,Not Hispanic or Latino,7/29/19,1.412731006,34,323.5,N,44.24,27.2,N,NA,PROGRESSIVE DISEASE,2.004106776,1,8.377823409,1,N,N,N
-PICI0033-110-0002,7A,A,Bempegaldesleukin + Nivolumab,Measurable,67,M,Asian,Not Hispanic or Latino,9/11/19,0.755646817,5,0,N,62.67,-15.2,N,-17.29185727,STABLE DISEASE,2.332648871,0,12.22176591,0,N,N,N
-PICI0033-110-0003,8A,A,Bempegaldesleukin + Nivolumab,Measurable,62,M,White,Not Hispanic or Latino,9/9/19,0.722792608,4,50,NE,18.42,-39.5,N,NA,NOT EVALUABLE,0.032854209,0,12.28747433,0,N,N,N
-PICI0033-110-0004,11A,A,Bempegaldesleukin + Nivolumab,Measurable,68,M,White,Not Hispanic or Latino,9/18/19,0.722792608,NA,NA,NE,0.24,66.7,N,17.40890688,PROGRESSIVE DISEASE,1.018480493,1,10.84188912,1,N,N,N
-PICI0033-110-0005,5A,A,Bempegaldesleukin + Nivolumab,Non-measurable,57,M,White,Not Hispanic or Latino,9/30/19,7.917864476,0,NA,NE,1.57,64.3,N,NA,STABLE DISEASE,11.43326489,0,11.59753593,0,N,Y,N
-PICI0033-110-0012,1A,A,Bempegaldesleukin + Nivolumab,Non-measurable,52,M,White,Not Hispanic or Latino,10/7/19,1.412731006,1934,-64.3,N,63.09,14.7,N,NA,STABLE DISEASE,1.905544148,0,10.05338809,0,N,N,N
-PICI0033-111-0009,10A,A,Bempegaldesleukin + Nivolumab,Measurable,64,M,White,Not Hispanic or Latino,10/15/19,2.069815195,0,NA,NE,64.56,-7.3,N,1.960784314,STABLE DISEASE,4.435318275,1,11.10472279,0,N,N,N
-PICI0033-111-0010,3A,A,Bempegaldesleukin + Nivolumab,Measurable,65,M,White,Not Hispanic or Latino,10/15/19,1.872689938,NA,NA,NE,97.93,-7.5,N,41.34615385,PROGRESSIVE DISEASE,2.39835729,1,9.659137577,1,N,N,N
-PICI0033-111-0011,6A,A,Bempegaldesleukin + Nivolumab,Measurable,58,M,White,Not Hispanic or Latino,10/14/19,1.445585216,NA,NA,NE,32.19,-3.1,N,-23.07692308,STABLE DISEASE,1.412731006,0,2.135523614,0,N,N,N
-PICI0033-111-0013,14A,A,Bempegaldesleukin + Nivolumab,Measurable,77,M,White,Not Hispanic or Latino,10/21/19,2.102669405,NA,NA,NE,16.33,7.3,N,11.9047619,STABLE DISEASE,7.260780287,1,10.90759754,0,N,Y,N
-PICI0033-111-0016,9A,A,Bempegaldesleukin + Nivolumab,Measurable,77,M,White,Not Hispanic or Latino,11/13/19,0.657084189,15,-100,Y,2.17,-77,N,NA,NOT EVALUABLE,0.032854209,0,2.529774127,0,Y,N,N
-PICI0033-111-0022,13A,A,Bempegaldesleukin + Nivolumab,Measurable,60,M,White,Not Hispanic or Latino,12/9/19,0.032854209,1,NA,NE,13.77,NA,N,NA,NOT EVALUABLE,0.032854209,1,0.032854209,1,N,N,N
-PICI0033-101-0027,13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,79,M,White,Not Hispanic or Latino,1/20/20,19.41683778,NA,NA,NE,22.21,-99.4,Y,NA,STABLE DISEASE,16.59137577,1,27.49897331,1,Y,Y,Y
-PICI0033-101-0032,15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,90,M,Other,Hispanic or Latino,7/13/20,1.905544148,3,33.3,NE,54.87,66.4,N,NA,STABLE DISEASE,3.515400411,1,3.515400411,1,N,N,N
-PICI0033-101-0043,14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,73,M,White,Not Hispanic or Latino,10/12/20,1.051334702,13,-38.5,N,37.12,34.9,N,2.941176471,STABLE DISEASE,7.983572895,1,7.983572895,1,N,N,N
-PICI0033-101-0044,4B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,60,M,White,Not Hispanic or Latino,11/9/20,2.858316222,4,0,NE,1.44,22.2,N,NA,STABLE DISEASE,3.613963039,0,9.363449692,0,N,N,N
-PICI0033-103-0041,6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,77,M,Other,Not Hispanic or Latino,9/14/20,7.425051335,0,NA,NE,1.25,-77.6,Y,0,STABLE DISEASE,7.457905544,1,20.56673511,1,Y,Y,Y
-PICI0033-108-0045,3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,60,M,White,Not Hispanic or Latino,1/4/21,1.872689938,43,-62.8,N,66.81,-48.9,N,-68.88888889,PARTIAL RESPONSE,4.632443532,1,7.293634497,1,Y,Y,Y
-PICI0033-110-0018,10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,74,M,Black or African American,Not Hispanic or Latino,12/16/19,0.952772074,NA,NA,NE,2651,5.7,N,34,PROGRESSIVE DISEASE,1.708418891,1,4.13963039,1,N,N,N
-PICI0033-110-0019,2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,54,M,Black or African American,Not Hispanic or Latino,11/11/19,0.558521561,31,NA,N,49.98,334.6,N,NA,NOT EVALUABLE,5.650924025,1,5.650924025,1,N,N,N
-PICI0033-110-0020,5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,80,M,Black or African American,Not Hispanic or Latino,12/16/19,10.02053388,0,NA,NE,46.6,-71.4,N,NA,STABLE DISEASE,26.28336756,0,29.99589322,0,N,Y,Y
-PICI0033-110-0024,11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,75,M,White,Hispanic or Latino,1/6/20,2.825462012,6,-50,Y,75.37,-11.6,N,18.63013699,STABLE DISEASE,3.515400411,1,17.87268994,0,Y,N,N
-PICI0033-110-0025,8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,71,M,White,Hispanic or Latino,1/6/20,9.297741273,0,NA,NE,28.49,-87.5,Y,NA,STABLE DISEASE,10.15195072,1,25.36344969,1,Y,Y,Y
-PICI0033-110-0031,12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,73,M,White,Not Hispanic or Latino,6/8/20,4.698151951,69,-84.1,N,11.78,-55.5,N,NA,STABLE DISEASE,5.552361396,1,8.082135524,1,N,N,N
-PICI0033-110-0033,9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,58,M,White,Not Hispanic or Latino,7/27/20,1.938398357,150,-56.7,N,9.16,66.8,N,-16.16688396,STABLE DISEASE,2.102669405,0,22.63655031,0,N,N,N
-PICI0033-110-0034,1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,58,M,Other,Hispanic or Latino,7/27/20,1.018480493,47,14.9,N,20.78,-72.2,N,NA,NOT EVALUABLE,2.168377823,0,11.8275154,0,N,N,N
-PICI0033-110-0037,7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,63,M,Other,Hispanic or Latino,8/10/20,0.558521561,62,77.4,N,61.85,41.9,N,NA,NOT EVALUABLE,10.48049281,1,10.48049281,1,N,N,N
-PICI0033-101-0039,11C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,61,M,Other,Hispanic or Latino,8/10/20,2.004106776,23,-17.4,N,4.64,130.8,N,NA,PROGRESSIVE DISEASE,2.858316222,1,17.31416838,1,N,N,N
-PICI0033-101-0049,7C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,84,M,White,Not Hispanic or Latino,3/1/21,1.905544148,3,0,NE,46.76,18.1,N,NA,PROGRESSIVE DISEASE,2.661190965,1,17.08418891,1,N,N,N
-PICI0033-101-0050,6C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,55,M,Black or African American,Not Hispanic or Latino,3/15/21,1.905544148,0,NA,NE,151.33,83.6,N,29.41176471,PROGRESSIVE DISEASE,2.661190965,1,18.36550308,1,N,N,N
-PICI0033-108-0030,8C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,65,M,White,Not Hispanic or Latino,3/30/20,4.665297741,14,-21.4,N,11.16,26.3,N,NA,STABLE DISEASE,5.388090349,1,8.082135524,0,N,N,N
-PICI0033-108-0040,14C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,75,M,White,Not Hispanic or Latino,9/21/20,0.952772074,0,NA,NE,3.53,22.9,N,NA,NOT EVALUABLE,10.28336756,1,10.28336756,1,N,N,N
-PICI0033-108-0047,1C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,61,M,White,Not Hispanic or Latino,2/15/21,2.102669405,1,2100,NE,215.63,75.9,N,NA,PROGRESSIVE DISEASE,2.891170431,1,9.100616016,1,N,N,N
-PICI0033-108-0054,2C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,63,M,White,Hispanic or Latino,4/12/21,0.952772074,60,-16.7,N,1236.45,-35.2,N,NA,NOT EVALUABLE,1.971252567,1,1.971252567,1,N,N,N
-PICI0033-108-0057,12C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,78,M,Black or African American,Not Hispanic or Latino,5/17/21,15.70431211,0,NA,NE,54.99,-73.2,Y,-59.72222222,PARTIAL RESPONSE,14.6201232,0,16.59137577,0,Y,Y,Y
-PICI0033-108-0059,10C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,78,M,White,Not Hispanic or Latino,10/11/21,4.632443532,23,-13,N,3945.5,-60.2,N,6.896551724,STABLE DISEASE,2.792607803,1,6.472279261,0,N,N,N
-PICI0033-110-0028,9C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,72,M,White,Not Hispanic or Latino,3/16/20,3.351129363,0,NA,NE,55.86,124.8,N,NA,STABLE DISEASE,10.38193018,1,10.38193018,1,N,N,N
-PICI0033-110-0029,3C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,70,M,White,Not Hispanic or Latino,5/4/20,7.030800821,8,-37.5,N,39.15,-35.1,N,NA,STABLE DISEASE,7.063655031,1,17.18275154,0,N,Y,Y
-PICI0033-110-0042,4C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,72,M,White,Not Hispanic or Latino,10/12/20,4.468172485,0,NA,NE,4.56,59.4,N,NA,STABLE DISEASE,4.665297741,0,17.41273101,0,N,N,N
-PICI0033-110-0048,13C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,84,M,White,Not Hispanic or Latino,3/1/21,0.262833676,10,20,N,7.84,-4,N,NA,PROGRESSIVE DISEASE,0.722792608,1,3.088295688,1,N,N,N
-PICI0033-110-0055,5C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,82,M,White,Not Hispanic or Latino,4/26/21,0.952772074,21,285.7,N,24.56,38.1,N,3.333333333,STABLE DISEASE,3.482546201,1,3.482546201,1,N,N,N
+manuscript.id,cohort,treatment,measurable.disease,age,sex,race,ethnicity,treatment.duration.months,CTC.baseline,CTC.percent.change.from.baseline,CTC.responder,PSA.baseline,PSA.percent.change.from.baseline,PSA.responder,target.lesions.percent.change.from.baseline,best.overall.response,rPFS.months,rPFS.event.flag,os.months,os.event.flag,composite.endpoint.responder,disease.control.6month
+4A,A,Bempegaldesleukin + Nivolumab,Non-measurable,63,M,Asian,Not Hispanic or Latino,1.347022587,4,-75,NE,32.7,-7.4,N,NA,PROGRESSIVE DISEASE,2.759753593,1,11.07186858,0,N,N
+2A,A,Bempegaldesleukin + Nivolumab,Non-measurable,63,M,White,Not Hispanic or Latino,1.412731006,5,NA,N,0.51,-13.7,N,NA,PROGRESSIVE DISEASE,2.102669405,1,9.034907598,1,N,N
+12A,A,Bempegaldesleukin + Nivolumab,Non-measurable,62,M,White,Not Hispanic or Latino,1.412731006,34,323.5,N,44.24,27.2,N,NA,PROGRESSIVE DISEASE,2.004106776,1,8.377823409,1,N,N
+7A,A,Bempegaldesleukin + Nivolumab,Measurable,67,M,Asian,Not Hispanic or Latino,0.755646817,5,0,N,62.67,-15.2,N,-17.29185727,STABLE DISEASE,2.332648871,0,12.22176591,0,N,N
+8A,A,Bempegaldesleukin + Nivolumab,Measurable,62,M,White,Not Hispanic or Latino,0.722792608,4,50,NE,18.42,-39.5,N,NA,NOT EVALUABLE,0.032854209,0,12.28747433,0,N,N
+11A,A,Bempegaldesleukin + Nivolumab,Measurable,68,M,White,Not Hispanic or Latino,0.722792608,NA,NA,NE,0.24,66.7,N,17.40890688,PROGRESSIVE DISEASE,1.018480493,1,10.84188912,1,N,N
+5A,A,Bempegaldesleukin + Nivolumab,Non-measurable,57,M,White,Not Hispanic or Latino,7.917864476,0,NA,NE,1.57,64.3,N,NA,STABLE DISEASE,11.43326489,0,11.59753593,0,N,Y
+1A,A,Bempegaldesleukin + Nivolumab,Non-measurable,52,M,White,Not Hispanic or Latino,1.412731006,1934,-64.3,N,63.09,14.7,N,NA,STABLE DISEASE,1.905544148,0,10.05338809,0,N,N
+10A,A,Bempegaldesleukin + Nivolumab,Measurable,64,M,White,Not Hispanic or Latino,2.069815195,0,NA,NE,64.56,-7.3,N,1.960784314,STABLE DISEASE,4.435318275,1,11.10472279,0,N,N
+3A,A,Bempegaldesleukin + Nivolumab,Measurable,65,M,White,Not Hispanic or Latino,1.872689938,NA,NA,NE,97.93,-7.5,N,41.34615385,PROGRESSIVE DISEASE,2.39835729,1,9.659137577,1,N,N
+6A,A,Bempegaldesleukin + Nivolumab,Measurable,58,M,White,Not Hispanic or Latino,1.445585216,NA,NA,NE,32.19,-3.1,N,-23.07692308,STABLE DISEASE,1.412731006,0,2.135523614,0,N,N
+14A,A,Bempegaldesleukin + Nivolumab,Measurable,77,M,White,Not Hispanic or Latino,2.102669405,NA,NA,NE,16.33,7.3,N,11.9047619,STABLE DISEASE,7.260780287,1,10.90759754,0,N,Y
+9A,A,Bempegaldesleukin + Nivolumab,Measurable,77,M,White,Not Hispanic or Latino,0.657084189,15,-100,Y,2.17,-77,N,NA,NOT EVALUABLE,0.032854209,0,2.529774127,0,Y,N
+13A,A,Bempegaldesleukin + Nivolumab,Measurable,60,M,White,Not Hispanic or Latino,0.032854209,1,NA,NE,13.77,NA,N,NA,NOT EVALUABLE,0.032854209,1,0.032854209,1,N,N
+13B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,79,M,White,Not Hispanic or Latino,19.41683778,NA,NA,NE,22.21,-99.4,Y,NA,STABLE DISEASE,16.59137577,1,27.49897331,1,Y,Y
+15B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,90,M,Other,Hispanic or Latino,1.905544148,3,33.3,NE,54.87,66.4,N,NA,STABLE DISEASE,3.515400411,1,3.515400411,1,N,N
+14B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,73,M,White,Not Hispanic or Latino,1.051334702,13,-38.5,N,37.12,34.9,N,2.941176471,STABLE DISEASE,7.983572895,1,7.983572895,1,N,N
+4B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,60,M,White,Not Hispanic or Latino,2.858316222,4,0,NE,1.44,22.2,N,NA,STABLE DISEASE,3.613963039,0,9.363449692,0,N,N
+6B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,77,M,Other,Not Hispanic or Latino,7.425051335,0,NA,NE,1.25,-77.6,Y,0,STABLE DISEASE,7.457905544,1,20.56673511,1,Y,Y
+3B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,60,M,White,Not Hispanic or Latino,1.872689938,43,-62.8,N,66.81,-48.9,N,-68.88888889,PARTIAL RESPONSE,4.632443532,1,7.293634497,1,Y,Y
+10B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,74,M,Black or African American,Not Hispanic or Latino,0.952772074,NA,NA,NE,2651,5.7,N,34,PROGRESSIVE DISEASE,1.708418891,1,4.13963039,1,N,N
+2B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,54,M,Black or African American,Not Hispanic or Latino,0.558521561,31,NA,N,49.98,334.6,N,NA,NOT EVALUABLE,5.650924025,1,5.650924025,1,N,N
+5B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,80,M,Black or African American,Not Hispanic or Latino,10.02053388,0,NA,NE,46.6,-71.4,N,NA,STABLE DISEASE,26.28336756,0,29.99589322,0,N,Y
+11B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,75,M,White,Hispanic or Latino,2.825462012,6,-50,Y,75.37,-11.6,N,18.63013699,STABLE DISEASE,3.515400411,1,17.87268994,0,Y,N
+8B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,71,M,White,Hispanic or Latino,9.297741273,0,NA,NE,28.49,-87.5,Y,NA,STABLE DISEASE,10.15195072,1,25.36344969,1,Y,Y
+12B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,73,M,White,Not Hispanic or Latino,4.698151951,69,-84.1,N,11.78,-55.5,N,NA,STABLE DISEASE,5.552361396,1,8.082135524,1,N,N
+9B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,58,M,White,Not Hispanic or Latino,1.938398357,150,-56.7,N,9.16,66.8,N,-16.16688396,STABLE DISEASE,2.102669405,0,22.63655031,0,N,N
+1B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Non-measurable,58,M,Other,Hispanic or Latino,1.018480493,47,14.9,N,20.78,-72.2,N,NA,NOT EVALUABLE,2.168377823,0,11.8275154,0,N,N
+7B,B,SBRT + CDX-301 + poly-ICLC + Nivolumab,Measurable,63,M,Other,Hispanic or Latino,0.558521561,62,77.4,N,61.85,41.9,N,NA,NOT EVALUABLE,10.48049281,1,10.48049281,1,N,N
+11C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,61,M,Other,Hispanic or Latino,2.004106776,23,-17.4,N,4.64,130.8,N,NA,PROGRESSIVE DISEASE,2.858316222,1,17.31416838,1,N,N
+7C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,84,M,White,Not Hispanic or Latino,1.905544148,3,0,NE,46.76,18.1,N,NA,PROGRESSIVE DISEASE,2.661190965,1,17.08418891,1,N,N
+6C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,55,M,Black or African American,Not Hispanic or Latino,1.905544148,0,NA,NE,151.33,83.6,N,29.41176471,PROGRESSIVE DISEASE,2.661190965,1,18.36550308,1,N,N
+8C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,65,M,White,Not Hispanic or Latino,4.665297741,14,-21.4,N,11.16,26.3,N,NA,STABLE DISEASE,5.388090349,1,8.082135524,0,N,N
+14C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,75,M,White,Not Hispanic or Latino,0.952772074,0,NA,NE,3.53,22.9,N,NA,NOT EVALUABLE,10.28336756,1,10.28336756,1,N,N
+1C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,61,M,White,Not Hispanic or Latino,2.102669405,1,2100,NE,215.63,75.9,N,NA,PROGRESSIVE DISEASE,2.891170431,1,9.100616016,1,N,N
+2C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,63,M,White,Hispanic or Latino,0.952772074,60,-16.7,N,1236.45,-35.2,N,NA,NOT EVALUABLE,1.971252567,1,1.971252567,1,N,N
+12C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,78,M,Black or African American,Not Hispanic or Latino,15.70431211,0,NA,NE,54.99,-73.2,Y,-59.72222222,PARTIAL RESPONSE,14.6201232,0,16.59137577,0,Y,Y
+10C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,78,M,White,Not Hispanic or Latino,4.632443532,23,-13,N,3945.5,-60.2,N,6.896551724,STABLE DISEASE,2.792607803,1,6.472279261,0,N,N
+9C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,72,M,White,Not Hispanic or Latino,3.351129363,0,NA,NE,55.86,124.8,N,NA,STABLE DISEASE,10.38193018,1,10.38193018,1,N,N
+3C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,70,M,White,Not Hispanic or Latino,7.030800821,8,-37.5,N,39.15,-35.1,N,NA,STABLE DISEASE,7.063655031,1,17.18275154,0,N,Y
+4C,C,CDX-301 + INO-5151 + Nivolumab,Non-measurable,72,M,White,Not Hispanic or Latino,4.468172485,0,NA,NE,4.56,59.4,N,NA,STABLE DISEASE,4.665297741,0,17.41273101,0,N,N
+13C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,84,M,White,Not Hispanic or Latino,0.262833676,10,20,N,7.84,-4,N,NA,PROGRESSIVE DISEASE,0.722792608,1,3.088295688,1,N,N
+5C,C,CDX-301 + INO-5151 + Nivolumab,Measurable,82,M,White,Not Hispanic or Latino,0.952772074,21,285.7,N,24.56,38.1,N,3.333333333,STABLE DISEASE,3.482546201,1,3.482546201,1,N,N
