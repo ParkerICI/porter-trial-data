@@ -5,6 +5,10 @@ Galsky MD, Autio KA, Cabanski CR, Wentzel K, Graff JN, Friedlander TW, Howes TR,
 
 ## DATA DICTIONARY
 ### clinical-data
+#### Subject-Level Data: PORTER_SuppTableS6_AllPatients.xlsx
+An extended version of Supplementary Table S6 from the manuscript, which contains data on all 43 patients.
+
+
 #### Subject-Level Data: PORTER_clinical_data_public.csv
 * manuscript.id = Deidentified Subject ID reported in the manuscript
 * cohort = Treatment Cohort (A, B, C)
